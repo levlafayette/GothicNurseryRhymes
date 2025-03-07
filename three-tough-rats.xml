@@ -36,7 +36,7 @@
         </time>
       </attributes>
       <barline location="left">
-        <ending number="[|" type="start" />
+        <ending number="2" type="start" />
       </barline>
       <direction placement="above">
         <direction-type>
